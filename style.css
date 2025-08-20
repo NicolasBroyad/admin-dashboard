@@ -29,10 +29,30 @@ body {
     font-size: 2rem;
 }
 
+svg {
+    fill: white;
+}
+
+.dashboard-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.dashboard-icon {
+    height: 45px;
+}
+
+.home-icon {
+    height: 25px;
+}
+
 .sidebar-list .sidebar-list-item {
     font-size: 1.5rem;
     list-style-type: none;
     color: white;
+    display: flex;
+    gap: 5px;
 }
 
 .header-container {
