@@ -112,9 +112,17 @@ a {
     grid-template-columns: 120px 1fr;
 }
 
-img {
-    border-radius: 1000%;
+.user-wave-profile-pic-container {
     height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
 }
 
 .action-button-container {
