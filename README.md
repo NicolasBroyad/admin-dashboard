@@ -8,7 +8,6 @@
 
 ## Preview
 
-![Dashboard Screenshot]
 <img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/423f1a79-2e7c-4ed3-a8c4-04ca8e944d43" />
 
 
