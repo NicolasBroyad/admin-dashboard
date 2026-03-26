@@ -24,6 +24,5 @@ This project was built as part of [The Odin Project](https://www.theodinproject.
 
 ### What I Learned
 
-*Write a few bullet points here about your experience. For example:*
 * I learned how to structure a full-page layout using CSS Grid, successfully dividing the screen into a sidebar, a header, and a main content area.
 * This project helped me gain a much deeper understanding of CSS Grid and how to use it for complex layouts.
